@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "NecroHorde 2 - Even Horder",
+"dataUrl": "NecroHordeGame.data.unityweb",
+"asmCodeUrl": "NecroHordeGame.asm.code.unityweb",
+"asmMemoryUrl": "NecroHordeGame.asm.memory.unityweb",
+"asmFrameworkUrl": "NecroHordeGame.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
